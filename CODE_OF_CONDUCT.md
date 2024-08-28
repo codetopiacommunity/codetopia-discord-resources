@@ -38,7 +38,7 @@ The following actions are not allowed in Codetopia:
 
 ## Reporting Issues
 
-If you experience or witness behavior that violates this Code of Conduct, please report it to the moderators at [your-email@example.com]. We take all reports seriously and will address them promptly and confidentially.
+If you experience or witness behavior that violates this Code of Conduct, please report it by filling this [form](https://forms.gle/VXpS8jhnD7XFrrkr5). We take all reports seriously and will address them promptly and confidentially.
 
 ## Consequences
 
