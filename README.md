@@ -25,7 +25,7 @@ Our collection is organized into categories to help you easily find the material
 ## Accessing Resources
 This repository features a mix of free and paid resources. While we strive to include a diverse selection of materials, we place a strong emphasis on high-quality free resources to ensure that users have access to valuable content without financial constraints. Our goal is to offer a well-rounded collection that caters to various learning needs and preferences.
 
-Head over to the [Resources](./resources/README.md) section to explore our curated collection of educational materials. You can navigate through different categories to discover resources that align with your interests and learning objectives.
+Head over to the [Resources](./resources.md) section to explore our curated collection of educational materials. You can navigate through different categories to discover resources that align with your interests and learning objectives.
 
 ## Curation and Contributions
 Our team has curated these resources to present a collection of high-quality content in one convenient location. This curated approach helps streamline the search for valuable educational materials.
@@ -35,7 +35,7 @@ We extend our deepest appreciation to the authors, educators, and content creato
 
 
 ## How to Contribute
-We welcome contributions from the community to expand and improve this repository. Please refer to the [CONTRIBUTING.md](#) for guidelines on contributing to this project. Your input and suggestions are invaluable in enhancing the quality and diversity of our resource collection.
+We welcome contributions from the community to expand and improve this repository. Please refer to the [CONTRIBUTING.md](./CONTRIBUTION.md) for guidelines on contributing to this project. Your input and suggestions are invaluable in enhancing the quality and diversity of our resource collection.
 
 
 ## Community Engagement
