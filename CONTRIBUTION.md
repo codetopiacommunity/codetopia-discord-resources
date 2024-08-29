@@ -46,7 +46,7 @@ Codetopia is a living project that evolves with the needs of its community. If y
 ## Submission Process
 
 To contribute to Codetopia, please follow this standardized process:
-> if you are not familiar with the process of contributing to open-source projects, you can refer to the [open source resources](./open-source) in the resources section to learn more on how to contribute to open-source projects.
+> if you are not familiar with the process of contributing to open-source projects, you can refer to the [open source resources](./resources/open-source-collaboration.md) in the resources section to learn more on how to contribute to open-source projects.
 
 1. **Fork the Repository**: Create a fork of the Codetopia repository to work on your changes.
 2. **Create a Branch**: Use a descriptive branch name that reflects the nature of your contribution (e.g., `add-html-resource`, `update-css-guide`).
